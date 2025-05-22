@@ -2,19 +2,17 @@
 
 Índice de prácticas disponibles en este repositorio:
 
-- [Práctica 1](Practica1(cuadro).py)
-- [Práctica 2-3](Practica2y3(FiguraCalculo).py)
-- [Práctica 4](Practica4)
-- [Práctica 5](Practica5)
-- [Práctica 6](Practica6)
-- [Práctica 7](Practica7)
-- [Práctica 8](Practica8)
-- [Práctica 9](Practica9)
-- [Práctica 10-11](Practica10-11(pilares).py)
-- [Práctica 12](Practica12)
-- [Práctica 13](Practica13)
-- [Práctica 14](Practica14)
-- [Práctica 15](Practica15)
-- [Práctica 16](Practica16)
-
-Nota: Todos los archivos están disponibles en [el repositorio principal](https://github.com/jaredesc/jaredPOO).
+- [Práctica 1](./Practica%201)
+- [Práctica 2-3](./Practica%202-3)
+- [Práctica 4](./Practica%204)
+- [Práctica 5](./Practica%205)
+- [Práctica 6](./Practica%206)
+- [Práctica 7](./Practica%207)
+- [Práctica 8](./Practica%208)
+- [Práctica 9](./Practica%209)
+- [Práctica 10-11](./Practica%2010-11)
+- [Práctica 12](./Practica%2012)
+- [Práctica 13](./Practica%2013)
+- [Práctica 14](./Practica%2014)
+- [Práctica 15](./Practica%2015)
+- [Práctica 16](./Practica%2016)
