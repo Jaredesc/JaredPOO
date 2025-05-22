@@ -7,5 +7,6 @@ class Cuadro:
         return perim
 
 lado = float(input("Ingrese la medida del lado: "))
+
 print(f"Área del cuadro: {Cuadro.areaCuadr(lado)}")
 print(f"Perímetro del cuadro: {Cuadro.perimetroCuadro(lado)}")
