@@ -16,3 +16,5 @@
 - [Práctica 14](./Practica%2014)
 - [Práctica 15](./Practica%2015)
 - [Práctica 16](./Practica%2016)
+
+Nota: Todos los archivos están disponibles en [el repositorio principal](https://github.com/jaredesc/jaredPOO).
