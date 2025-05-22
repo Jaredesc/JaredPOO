@@ -10,7 +10,7 @@
 - [Práctica 7](Practica7.py)
 - [Práctica 8](Practica8.py)
 - [Práctica 9](Practica9.py)
-- [Práctica 10-11](Practica10-11(pilares).py)
+- [Práctica 10-11](Practica10y11(pilares).py)
 - [Práctica 12](Practica12.py)
 - [Práctica 13](Practica13.py)
 - [Práctica 14](Practica14.py)
